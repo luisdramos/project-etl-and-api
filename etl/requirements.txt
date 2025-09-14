@@ -1,0 +1,5 @@
+mara-pipelines==3.0.0
+sqlalchemy
+psycopg2-binary
+pandas
+mara-etl-tools
